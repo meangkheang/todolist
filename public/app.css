@@ -1,0 +1,9 @@
+.remove{
+    transition-delay: 1s;
+    display: none;
+}
+
+.checked{
+    text-decoration: line-through;
+    font-style: italic;
+}
